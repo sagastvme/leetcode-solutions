@@ -1,9 +1,10 @@
-- [ ] **1. Two Sum** — 55.1%, Easy
-- [ ] **141. Linked List Cycle** — 52.0%, Easy
-- [ ] **268. Missing Number** — 69.4%, Easy
-- [ ] **20. Valid Parentheses** — 41.9%, Easy
-- [ ] **21. Merge Two Sorted Lists** — 66.3%, Easy
-- [ ] **572. Subtree of Another Tree** — 49.5%, Easy
+<!-- - [] **1. Two Sum** — 55.1%, Easy -->
+<!-- - [] **141. Linked List Cycle** — 52.0%, Easy -->
+<!-- - [] **268. Missing Number** — 69.4%, Easy -->
+<!-- - [] **20. Valid Parentheses** — 41.9%, Easy -->
+<!-- - [] **21. Merge Two Sorted Lists** — 66.3%, Easy -->
+<!-- - [ ] **572. Subtree of Another Tree** — 49.5%, Easy -->
+<!-- - [ ] **242. Valid Anagram** — 66.2%, Easy -->
 - [ ] **190. Reverse Bits** — 62.2%, Easy
 - [ ] **191. Number of 1 Bits** — 73.8%, Easy
 - [ ] **70. Climbing Stairs** — 53.4%, Easy
@@ -13,7 +14,6 @@
 - [ ] **226. Invert Binary Tree** — 78.6%, Easy
 - [ ] **100. Same Tree** — 64.5%, Easy
 - [ ] **104. Maximum Depth of Binary Tree** — 76.8%, Easy
-- [ ] **242. Valid Anagram** — 66.2%, Easy
 - [ ] **125. Valid Palindrome** — 50.2%, Easy
 - [ ] **121. Best Time to Buy and Sell Stock** — 54.8%, Easy
 - [ ] **252. Meeting Rooms** — 58.8%, Easy
@@ -50,7 +50,7 @@
 - [ ] **198. House Robber** — 52.0%, Med.
 - [ ] **200. Number of Islands** — 61.6%, Med.
 - [ ] **73. Set Matrix Zeroes** — 59.0%, Med.
-- [ ] **79. Word Search** — 44.7%, Med.
+<!-- - [ ] **79. Word Search** — 44.7%, Med. -->
 - [ ] **207. Course Schedule** — 48.5%, Med.
 - [ ] **208. Implement Trie (Prefix Tree)** — 67.5%, Med.
 - [ ] **211. Design Add and Search Words Data Structure** — 46.7%, Med.
