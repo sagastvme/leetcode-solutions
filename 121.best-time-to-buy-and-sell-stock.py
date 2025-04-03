@@ -12,17 +12,24 @@ from typing import *
 # @lc code=start
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        maxProfit = 0 
+        maxDiff = 0
         left = 0 
-        right = 1         
-        while right < len(prices):
+        right = 1
+        
+        while right < len(prices) :
+            
             if prices[left] > prices[right]:
-                left = right 
+                left = right
             else:
-                benefit = prices[right] - prices[left]
-                maxProfit = benefit if benefit > maxProfit else maxProfit
-            right+=1 
-        return maxProfit
+                diff = prices[right] - prices[left]
+                
+                if diff > maxDiff:
+                    maxDiff = diff 
+                
+            right += 1 
+                
+        return maxDiff
+                        
             
             
             

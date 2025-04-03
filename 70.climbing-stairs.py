@@ -12,16 +12,15 @@ from typing import *
 # @lc code=start
 class Solution:
     def climbStairs(self, n: int) -> int:
-        last_option = 1 
-        pre_last = 1         
-        for i in range(n -1 ):
-            tmp = pre_last
-            pre_last = pre_last + last_option
-            last_option = tmp
-        return pre_last            
+        end = 1 
+        before_end = 1 
         
         
-        
+        for i in range(n-1):
+            tmp  = end     
+            end = before_end + end 
+            before_end = tmp 
+        return end
         
 # @lc code=end
 
