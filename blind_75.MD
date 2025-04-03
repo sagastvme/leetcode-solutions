@@ -7,7 +7,7 @@
 <!-- - [ ] **242. Valid Anagram** — 66.2%, Easy -->
 - [ ] **190. Reverse Bits** — 62.2%, Easy
 - [ ] **191. Number of 1 Bits** — 73.8%, Easy
-- [ ] **70. Climbing Stairs** — 53.4%, Easy
+    <!-- - [ ] **70. Climbing Stairs** — 53.4%, Easy -->
 - [ ] **206. Reverse Linked List** — 78.7%, Easy
 - [ ] **338. Counting Bits** — 79.4%, Easy
 - [ ] **217. Contains Duplicate** — 62.8%, Easy
