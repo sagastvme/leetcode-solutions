@@ -1,3 +1,8 @@
+# @before-stub-for-debug-begin
+from python3problem104 import *
+from typing import *
+# @before-stub-for-debug-end
+
 #
 # @lc app=leetcode id=104 lang=python3
 #
@@ -13,17 +18,17 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        return self.find(root)
-        
-        
-    def find(self, p1, counter=0 ):
-        if p1:
-            counter+= 1 
-            left = self.find(p1.left, counter)
-            right = self.find(p1.right, counter)
-            return left if left > right else right 
-        else:
-            return counter 
-        
-# @lc code=end
+        def dfs(root, counter ):
+            if not root: 
+                return counter 
+            counter+=1 
+            return max(dfs(root.left, counter ), dfs(root.right, counter ))
+            
+        if not root:
+            return 0
+            
+        return dfs(root, 0 )
+    
+    
+    # @lc code=end
 

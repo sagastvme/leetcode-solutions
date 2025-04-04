@@ -13,7 +13,7 @@
 - [ ] **217. Contains Duplicate** — 62.8%, Easy
 - [ ] **226. Invert Binary Tree** — 78.6%, Easy
 - [ ] **100. Same Tree** — 64.5%, Easy
-- [ ] **104. Maximum Depth of Binary Tree** — 76.8%, Easy
+<!-- - [ ] **104. Maximum Depth of Binary Tree** — 76.8%, Easy -->
 <!-- - [ ] **125. Valid Palindrome** — 50.2%, Easy -->
 <!-- - [ ] **121. Best Time to Buy and Sell Stock** — 54.8%, Easy -->
 <!-- - [ ] **252. Meeting Rooms** — 58.8%, Easy -->
