@@ -11,7 +11,7 @@
 - [ ] **206. Reverse Linked List** — 78.7%, Easy
 - [ ] **338. Counting Bits** — 79.4%, Easy
 - [ ] **217. Contains Duplicate** — 62.8%, Easy
-- [ ] **226. Invert Binary Tree** — 78.6%, Easy
+<!-- - [ ] **226. Invert Binary Tree** — 78.6%, Easy -->
 - [ ] **100. Same Tree** — 64.5%, Easy
 <!-- - [ ] **104. Maximum Depth of Binary Tree** — 76.8%, Easy -->
 <!-- - [ ] **125. Valid Palindrome** — 50.2%, Easy -->
